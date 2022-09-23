@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ejercicio_2</string>
+    <string name="valor_multiplicacion">*</string>
+    <string name="valor_resta">-</string>
+    <string name="numero_1">Numero 1</string>
+    <string name="valor_suma">+</string>
+    <string name="valor_division">%</string>
+    <string name="resultado">Resultado</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="numero_2">Numero 2</string>
+    <string name="editTextNumero_1">Introduce tu numero</string>
+    <string name="editTextNumero_2">Introduce tu numero</string>
+    <string name="resultadoFinal" />
+</resources>

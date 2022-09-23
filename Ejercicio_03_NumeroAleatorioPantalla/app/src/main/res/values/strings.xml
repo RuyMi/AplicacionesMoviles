@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio_03_NumeroAleatorioPantalla</string>
+    <string name="textoResultado">Pulsa el botón para generar</string>
+    <string name="generarBoton">Generar</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio_1</string>
+    <string name="description">Logo</string>
+    <string name="usuario">Usuario</string>
+    <string name="botonLogin">Login</string>
+    <string name="botonRegistrarse">Registrarse</string>
+    <string name="textLogo">Logo</string>
+    <string name="password">Password</string>
+</resources>
